@@ -10,6 +10,8 @@ tags:
 
 ## 关于本 Gatsby 主题
 
+hh
+
 本主题名为「清风朗月」，英文为 Breeze，努力成为一个优雅的中文博客主题，希望你喜欢。
 
 本主题主要移植（同时做了一些修改，具体见下）自 [AmazingRise](https://github.com/AmazingRise) 的 Hugo 主题 [Diary](https://github.com/amazingrise/hugo-theme-diary)，而其移植并改进自 [SumiMakito](https://github.com/SumiMakito) 的 Hexo 主题 [Journal](https://github.com/SumiMakito/hexo-theme-journal/)。
